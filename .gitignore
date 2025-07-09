@@ -1,0 +1,6 @@
+# Directorio del SDK (debe ser descargado manualmente)
+sdk_docs_temp/
+
+# Archivos de entorno de Python
+__pycache__/
+*.pyc
