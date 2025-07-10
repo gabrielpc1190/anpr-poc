@@ -1,6 +1,23 @@
-# Directorio del SDK (debe ser descargado manualmente)
-sdk_docs_temp/
+# Entornos virtuales de Python
+.venv/
+venv/
+ENV/
 
-# Archivos de entorno de Python
+# Archivos de caché de Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Archivos de log
+*.log
+*.txt
+
+# Directorio de capturas
+capturas/
+
+# Archivos de instalación y SDK
+*.zip
+
+# Archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db

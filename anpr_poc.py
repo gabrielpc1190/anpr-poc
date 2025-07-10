@@ -23,7 +23,7 @@ CAMERAS = [
 ]
 
 g_attach_handle_map = {}
-LOG_FILE = "anpr_log.txt"
+LOG_FILE = "anpr.log"
 PACKET_LOG_FILE = "event_packets.log"
 
 # --- FUNCIÓN CALLBACK PARA PROCESAR EVENTOS ---
